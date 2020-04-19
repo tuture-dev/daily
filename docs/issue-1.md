@@ -1,5 +1,7 @@
 【图雀社区9点钟】1分钟了解科技、技术圈热点、动态与个人成长
+
 2020年4月20日  星期一
+
 ———————————————     
 
 【今日热点】   
@@ -25,11 +27,16 @@
 
 【工具】5.Facebook 推出实验性 JavaScript 工具链 Rome https://www.infoq.cn/article/6EAKKhXIyf1XXMQmuUlZ
 
-【工具】6.根据 Swagger 规范，生成接口说明文档 https://github.com/Redocly/redoc
+【工具】6.根据 Swagger 规范，生成接口说明文档 https://github.com/Redocly/redoc 
+
 ——————————————— 
+
 图雀酱说：小米、华为和一加攻占高端，苹果开始下沉搞低价，几年时间，浮浮沉沉
 
 ———————————————
+
 以上早报由图雀社区汇总整理   
+
 信息来源：infoQ、开源中国、wubaiqing的每日时报、大白等
+
 本期编辑：图雀酱
