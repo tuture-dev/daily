@@ -1,4 +1,4 @@
-【图雀社区9点钟】1分钟了解科技、技术圈热点、动态与个人成长
+【图雀社区9点钟】1分钟了解科技、技术圈热点、动态
 
 2020年4月20日  星期一
 
@@ -10,10 +10,9 @@
 
 去年 GitHub 宣布私有仓库免费]，同时提供 3 个免费协作人数的名额，如果需要更多的协作人数，则需要付费。但从现在开始，任何团队都可以免费使用不限制协作人数的私有仓库。
 
- ◆iPhone SE超32万人预约，苹果中国官网下架iPhone 8和8 Plus
+ ◆ES2020 特性集尘埃落定
 
-4月17日消息，新iPhone SE将于今天晚上8：01开启预售
-。目前，新iPhone SE在京东预约量突破32万人，距离该机上架仅仅过了不到2天时间。另外，苹果官网已经下架iPhone8，目前官网在售款包括了 iPhone 11 Pro 系列、iPhone 11、iPhone SE、iPhone XR。
+TC39 委员会于近期批准了 ECMAScript 2020（即 ES2020）候选提案，即经审定最终添加到 JavaScript 语言中的特性集。ES2020 候选提案是今年六月提交 ECMA 大会（General Assembly）的审批汇总，其中的大部分新特性已在浏览器中得到实现，并已可被 Babel JavaScript 解析器转码（transpile）
 
 【成长与工具】   
 
@@ -27,16 +26,18 @@
 
 【工具】5.Facebook 推出实验性 JavaScript 工具链 Rome https://www.infoq.cn/article/6EAKKhXIyf1XXMQmuUlZ
 
-【工具】6.根据 Swagger 规范，生成接口说明文档 https://github.com/Redocly/redoc 
+【工具】6.根据 Swagger 规范，生成接口说明文档 https://github.com/Redocly/redoc
 
 ——————————————— 
 
-图雀酱说：小米、华为和一加攻占高端，苹果开始下沉搞低价，几年时间，浮浮沉沉
+图雀酱说：ES2020 都来了，ES2021 还会远吗？扶我起来，我还能学
 
 ———————————————
 
 以上早报由图雀社区汇总整理   
 
-信息来源：infoQ、开源中国、wubaiqing的每日时报、大白等
+信息来源：infoQ、开源中国、wubaiqing的每日时报等（欢迎群友投稿，我们将为你署名）
 
 本期编辑：图雀酱
+
+早报地址：https://github.com/tuture-dev/daily，欢迎传播 & Star，鼓励我们做出更加优质的内容
