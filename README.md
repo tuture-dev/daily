@@ -18,5 +18,5 @@ oschina:https://www.oschina.net/news/industry-news
 
 ## 2020 年 4 月
 
-**第一周（4.20-4.26)**：[第 1 期](https://github.com/tuture-dev/daily/blob/master/docs/issue-1.md)
+**第一周（4.20-4.26)**：[第 1 期](https://github.com/tuture-dev/daily/blob/master/docs/issue-1.md) 第二期
 
