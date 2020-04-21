@@ -30,7 +30,7 @@ https://www.zhihu.com/question/388835247
 
 【工具】5.因为 ServerLess 的流行，越来越多人，使用 VSCode Remote 做远程开发，它支持 Docker、SSH、WSL 环境 https://github.com/microsoft/vscode-remote-release
 
-【工具】6.l可以捕获网站截图的工具 https://github.com/sindresorhus/pageres
+【工具】6.可以捕获网站截图的工具 https://github.com/sindresorhus/pageres
 
 ——————————————— 
 
