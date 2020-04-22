@@ -23,3 +23,7 @@ oschina:https://www.oschina.net/news/industry-news
 知乎：https://www.zhihu.com/
 
 语雀：https://yuque.com/
+
+阮一峰：http://ruanyifeng.com/
+
+少数派：https://sspai.com/post/57133
