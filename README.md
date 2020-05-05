@@ -1,6 +1,6 @@
 # 图雀社区技术早报
 
-分享每天值得分享的技术内容，每天早上 9 点发布。
+分享精彩的技术热点/资源/工具，每个工作日早上 9 点发布。
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/tuture-dev/daily/issues/new)。
 
@@ -8,7 +8,9 @@
 
 **第一周（4.20-4.24)**：[第 1 期 ](./docs/2020-04-week-1/issue-1.md) [第 2 期](./docs/2020-04-week-1/issue-2.md) [第 3 期](./docs/2020-04-week-1/issue-3.md) [第 4 期](./docs/2020-04-week-1/issue-4.md) [第 5 期](./docs/2020-04-week-1/issue-5.md)
 
-**第二周（4.27~5.1**）：[第 1 期](./docs/2020-04-week-2/issue-1.md) [第 2 期](./docs/2020-04-week-2/issue-2.md) [第 3 期](./docs/2020-04-week-2/issue-3.md) [第 4 期](./docs/2020-04-week-2/issue-4.md)
+**第二周（4.27~4.30）**：[第 1 期](./docs/2020-04-week-2/issue-1.md) [第 2 期](./docs/2020-04-week-2/issue-2.md) [第 3 期](./docs/2020-04-week-2/issue-3.md) [第 4 期](./docs/2020-04-week-2/issue-4.md)
+
+**第三周（5.6~5.9）**：[第 1 期](./docs/2020-05-week-3/issue-1.md)
 
 ## 早报来源
 
