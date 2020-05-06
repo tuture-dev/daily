@@ -6,11 +6,11 @@
 
 ## 2020 年 4 月
 
-**第一周（4.20-4.24)**：[第 1 期 ](./docs/2020-04-week-1/issue-1.md) [第 2 期](./docs/2020-04-week-1/issue-2.md) [第 3 期](./docs/2020-04-week-1/issue-3.md) [第 4 期](./docs/2020-04-week-1/issue-4.md) [第 5 期](./docs/2020-04-week-1/issue-5.md)
+**第一周（4.20-4.24)**：[第 1 期 ](./docs/2020-04-week-1/issue-1.md) | [第 2 期](./docs/2020-04-week-1/issue-2.md) | [第 3 期](./docs/2020-04-week-1/issue-3.md) | [第 4 期](./docs/2020-04-week-1/issue-4.md) | [第 5 期](./docs/2020-04-week-1/issue-5.md)
 
-**第二周（4.27~4.30）**：[第 1 期](./docs/2020-04-week-2/issue-1.md) [第 2 期](./docs/2020-04-week-2/issue-2.md) [第 3 期](./docs/2020-04-week-2/issue-3.md) [第 4 期](./docs/2020-04-week-2/issue-4.md)
+**第二周（4.27~4.30）**：[第 1 期](./docs/2020-04-week-2/issue-1.md) | [第 2 期](./docs/2020-04-week-2/issue-2.md) | [第 3 期](./docs/2020-04-week-2/issue-3.md) | [第 4 期](./docs/2020-04-week-2/issue-4.md)
 
-**第三周（5.6~5.9）**：[第 1 期](./docs/2020-05-week-3/issue-1.md)
+**第三周（5.6~5.9）**：[第 1 期](./docs/2020-05-week-3/issue-1.md) | [第 2 期](./docs/2020-05-week-3/issue-2.md)
 
 ## 早报来源
 
