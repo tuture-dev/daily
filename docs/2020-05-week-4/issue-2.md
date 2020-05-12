@@ -18,7 +18,7 @@
 
 【成长】3.彻底告别编译 OOM，用 esbuild 做压缩器 https://zhuanlan.zhihu.com/p/139219361
 
-【工具】4.TypeORM：同时支持主流 RDBMS 和 MongoDB 的 ORM 框架，支持 Node、浏览器等多环境 https://github.com/ericelliott/autodux
+【工具】4.TypeORM：同时支持主流 RDBMS 和 MongoDB 的 ORM 框架，支持 Node、浏览器等多环境 https://github.com/typeorm/typeorm
 
 【工具】5.i18n-ally：VSCode 国际化插件 https://github.com/antfu/i18n-ally
 
