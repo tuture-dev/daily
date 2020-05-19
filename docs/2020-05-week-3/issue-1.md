@@ -1,36 +1,36 @@
 【图雀社区9点钟】1分钟了解科技、技术圈热点、动态
 
-2020年5月6日  星期三
+2020年5月18日  星期一
 
 ———————————————
 
 【今日热点】 
 
- ◆ TIOBE 5 月榜单：时隔五年，C 语言重返第一
+ ◆ 美商务部全面封锁华为购买采用美国技术的芯片
 
-本期最大的亮点是 C 语言超越 Java，重返第一的位置。C 语言上一次排名第一，还是在 2015 年。在上个月的榜单中，两者的指数就已经非常接近了。那么是什么让 C 重新拿下第一的宝座呢？TIOBE CEO Paul Jansen 猜测是受冠状病毒的影响，嵌入式语言（C 和 C++ 等）也越来越流行，因为它们被用于医疗设备软件中。
+美商务部当地时间 5 月 15 日发布声明称，全面限制华为购买采用美国软件和技术生产的半导体，包括那些处于美国以外，但被列为美国商务管制清单中的生产设备，这就意味着为华为和海思生产代工前，都需要获得美国政府的许可证。由于考虑到该措施会对晶圆代工厂带来巨大经济影响，因此给予 120 天的缓冲期，以降低该规定变更带来的冲击。
 
- ◆ Facebook 开源聊天机器人 Blender，号称全球最强
+ ◆ NVIDIA 合作开源社区，将 GPU 加速带入 Spark 3.0
 
-Facebook AI 和机器学习部门 FAIR 发布博客宣布，经过多年研究，其已经构建和开源了一个新的聊天机器人 Blender。并称，这是有史以来最大的开放域（Open-Domain）聊天机器人。“今天，我们将发布完整的模型、代码和评估设置，以便其他 AI 研究人员能够重现此工作，并继续推进对话性 AI 研究。”
+NVIDIA 方面宣布与开源社区达成合作，为 Apache Spark 3.0 带来端到端的 GPU 加速。 按照计划，随着 Spark 3.0 于春季晚些时候发布，数据科学家和机器学习工程师将首次能够把革命性的 GPU 加速应用于普遍使用 SQL 数据库操作进行的 ETL（提取、转换和加载）数据处理工作负载中。
 
 【成长与工具】
 
-【成长】1.The Linux Command Line 中文版 https://www.kancloud.cn/thinkphp/linux-command-line
+【成长】1.哈佛大学的 CS50 计算机基础课免费开放 https://cs50.harvard.edu/college/2020/spring/weeks/1/
 
-【成长】2.如何评估一项技术是否值得长期投入 https://www.infoq.cn/article/DfRL0ww8xfBOcZjGZV5d
+【成长】2.Deno 正式发布，彻底弄明白和 node 的区别 https://juejin.im/post/5ebcad19f265da7bb07656c7
 
-【成长】3.Github 标星 12.9K，据说 Java 开发者都知道它 https://mp.weixin.qq.com/s/rbTn43-x3cttoevNh0Q2ng
+【成长】3.可能是最详细的 React 组件库搭建总结 https://juejin.im/post/5ebcf12df265da7bc55df460
 
-【工具】4.Elyra：IBM 推出的 Jupyter Notebooks 扩展 https://github.com/elyra-ai/elyra
+【工具】4.fastscan：使用原生的 JS 实现的敏感词过滤库 https://github.com/pyloque/fastscan
 
-【工具】5.Spug：面向中小型企业设计的开源运维平台 https://github.com/openspug/spug
+【工具】5.Reactive Resume：开源简历生成器 https://github.com/AmruthPillai/Reactive-Resume
 
-【工具】6.Insomnia Designer：API 协作设计工具 https://insomnia.rest/
+【工具】6.chineseocr_lite：超轻量级中文 OCR https://github.com/ouyanghuiyu/chineseocr_lite
 
 ——————————————— 
 
-图雀酱说：真的要好好学习 C 语言……指针是神马玩意儿，算了算了。
+图雀酱说：全力支持中国“智”造！
 
 ———————————————
 
