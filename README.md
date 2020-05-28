@@ -26,7 +26,9 @@ infoq：https://www.infoq.cn/
 
 oschina:https://www.oschina.net/news/industry-news
 
-每日时报：https://github.com/wubaiqing/zaobao
+奇舞周刊：https://weekly.75team.com/
+
+TechBridge：https://weekly.techbridge.cc/
 
 政采云前端团队技术博客：https://zoo.team/
 
@@ -37,3 +39,5 @@ oschina:https://www.oschina.net/news/industry-news
 阮一峰：http://ruanyifeng.com/
 
 少数派：https://sspai.com/
+
+每日时报：https://github.com/wubaiqing/zaobao
