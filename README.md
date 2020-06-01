@@ -20,6 +20,10 @@
 
 **第四周（5.25~5.29)**：[第 1 期](./docs/2020-05-week-4/issue-1.md) | [第 2 期](./docs/2020-05-week-4/issue-2.md) | [第 3 期](./docs/2020-05-week-4/issue-3.md)
 
+## 2020 年 6 月
+
+**第一周（6.1~6.5）**：[第 1 期](./docs/2020-06-week-1/issue-1.md)
+
 ## 早报来源
 
 infoq：https://www.infoq.cn/
