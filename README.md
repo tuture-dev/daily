@@ -24,11 +24,15 @@
 
 **第一周（6.1~6.5）**：[第 1 期](./docs/2020-06-week-1/issue-1.md) | [第 2 期](./docs/2020-06-week-1/issue-2.md) | [第 3 期](./docs/2020-06-week-1/issue-3.md) | [第 4 期](./docs/2020-06-week-1/issue-4.md) | [第 5 期](./docs/2020-06-week-1/issue-5.md)
 
+**第二周（6.8~6.12）**：[第 1 期](./docs/2020-06-week-2/issue-1.md)
+
 ## 早报来源
 
 infoq：https://www.infoq.cn/
 
 oschina:https://www.oschina.net/news/industry-news
+
+GitHub Daily：https://github.com/GitHubDaily/GitHubDaily
 
 奇舞周刊：https://weekly.75team.com/
 
