@@ -30,6 +30,10 @@
 
 **第四周（6.29~7.3）**：[第 1 期](./docs/2020-06-week-5/issue-1.md) | [第 2 期](./docs/2020-06-week-5/issue-2.md) | [第 3 期](./docs/2020-06-week-5/issue-3.md) | [第 5 期](./docs/2020-06-week-5/issue-5.md)
 
+## 2020 年 7 月
+
+**第一周（7.6~7.10）**：[第 1 期](./docs/2020-07-week-1/issue-1.md)
+
 ## 早报来源
 
 infoq：https://www.infoq.cn/
