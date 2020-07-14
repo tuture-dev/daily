@@ -34,6 +34,8 @@
 
 **第一周（7.6~7.10）**：[第 1 期](./docs/2020-07-week-1/issue-1.md)
 
+**第二周（7.13~7.17)**：[第 1 期](./docs/2020-07-week-2/issue-1.md)
+
 ## 早报来源
 
 infoq：https://www.infoq.cn/
